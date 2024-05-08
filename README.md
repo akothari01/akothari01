@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @akothari01
 - 👀 I’m interested in full stack web dev
-- 🌱 I’m currently learning Python Django and Node.js
+- 🌱 I’m currently learning Python Django and React.js
 
 <!---
 akothari01/akothari01 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
